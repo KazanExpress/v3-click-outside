@@ -1,5 +1,5 @@
 {
-  "name": "v3-click-outside",
+  "name": "@kazanexpress/v3-click-outside",
   "version": "0.0.1",
   "description": "Vue 3 directive to react on clicks outside an element",
   "main": "dist/v-click-outside.umd.js",
@@ -25,6 +25,9 @@
     "url": "https://github.com/KazanExpress/v3-click-outside"
   },
   "homepage": "https://github.com/KazanExpress/v3-click-outside#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "peerDependencies": {
     "vue": "^3.0.0"
   },
