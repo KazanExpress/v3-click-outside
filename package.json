@@ -1,6 +1,6 @@
 {
   "name": "@kazanexpress/v3-click-outside",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Vue 3 directive to react on clicks outside an element",
   "main": "dist/v-click-outside.umd.js",
   "umd:main": "dist/v-click-outside.umd.js",
